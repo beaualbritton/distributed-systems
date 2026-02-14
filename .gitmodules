@@ -1,3 +1,6 @@
 [submodule "pub-sub"]
 	path = pub-sub
 	url = https://github.com/beaualbritton/pub-sub.git
+[submodule "pub-sub-test"]
+	path = pub-sub-test
+	url = github:/beaualbritton/pub-sub-test
