@@ -4,3 +4,6 @@
 [submodule "pub-sub-test"]
 	path = pub-sub-test
 	url = github:/beaualbritton/pub-sub-test
+[submodule "pub-sub-cpp"]
+	path = pub-sub-cpp
+	url = github:/beaualbritton/pub-sub-cpp
