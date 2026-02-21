@@ -3,7 +3,7 @@
 	url = https://github.com/beaualbritton/pub-sub.git
 [submodule "pub-sub-test"]
 	path = pub-sub-test
-	url = github:/beaualbritton/pub-sub-test
+	url = https://github.com/beaualbritton/pub-sub-test
 [submodule "pub-sub-cpp"]
 	path = pub-sub-cpp
-	url = github:/beaualbritton/pub-sub-cpp
+	url = https://github.com/beaualbritton/pub-sub-cpp
