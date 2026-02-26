@@ -9,4 +9,4 @@
 	url = https://github.com/beaualbritton/pub-sub-cpp
 [submodule "pub-sub-cpp-test"]
 	path = pub-sub-cpp-test
-	url = https://github.com/beaualbritton/pub-sub-cpp.git
+	url = https://github.com/beaualbritton/pub-sub-cpp-test.git
